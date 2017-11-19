@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1510693720 source:c:\users\grafs\documents\ufv\paa\trabalhos práticos\trabalho 3\maiorsubsequencia\main.c
+	"MaiorSub.h"
+
+1510693583 c:\users\grafs\documents\ufv\paa\trabalhos práticos\trabalho 3\maiorsubsequencia\maiorsub.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1510711969 source:c:\users\grafs\documents\ufv\paa\trabalhos práticos\trabalho 3\maiorsubsequencia\maiorsub.c
+	"MaiorSub.h"
+
